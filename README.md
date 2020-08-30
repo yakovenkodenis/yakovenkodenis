@@ -7,3 +7,4 @@ I mostly develop for the web, so my primary fields of expertise are:
 4. React + Redux/MobX
 5. GraphQL
 6. Webpack
+7. MongoDB, PostgreSQL
