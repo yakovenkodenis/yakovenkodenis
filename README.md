@@ -3,6 +3,7 @@
 I mostly develop for the web, so my primary fields of expertise are:
 1. JavaScript including ECMAScript 6+ language features
 2. TypeScript
-3. React + Redux/MobX
-4. GraphQL
-5. Webpack
+3. Node
+4. React + Redux/MobX
+5. GraphQL
+6. Webpack
