@@ -5,6 +5,5 @@ I mostly develop for the web, so my primary fields of expertise are:
 2. TypeScript
 3. Node
 4. React + Redux/MobX
-5. GraphQL
-6. Webpack
-7. MongoDB, PostgreSQL
+5. Webpack
+6. MongoDB, PostgreSQL
